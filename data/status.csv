@@ -1,0 +1,15 @@
+Status,Description,Entry Time,Exit Time,Source
+Request Identification,Request Identification Description,2022-09-14,2022-09-15,http://link
+Request Drafted,Request Drafted Description,2022-10-01,2022-10-02,http://link
+Draft Review,Draft Review Description,2022-10-03,2022-10-05,http://link
+Ready To Send,Ready To Send Description,2023-04-13,2023-04-21,http://link
+Request Sent,Request Sent Description,2023-04-14,2023-04-15,http://link
+Initial Request In Review,Initial Request In Review Description,2023-04-17,2023-04-18,http://link
+Initial Response,Initial Response Description,2023-04-18,2023-04-19,http://link
+Data Request In Review,Data Request In Review Description,2023-04-22,,
+Terminated,Terminated Description,,,
+Final Response,Final Response Description,,,
+Data Received,Data Received Description,,,
+RTI Data Is Live,RTI Data Is Live Description,,,
+Added,,,,
+Added,,,,
