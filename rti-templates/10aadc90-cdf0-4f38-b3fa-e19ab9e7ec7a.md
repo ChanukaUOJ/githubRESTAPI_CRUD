@@ -1,4 +1,6 @@
-{{date}}​{{sender_name}}​
+{{date}}
+
+​{{sender_name}}​
 
 {{sender_email}}​
 
